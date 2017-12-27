@@ -6,6 +6,7 @@ I designed an Account Management System which includes Stock Portfolio Account a
 4. Sell shares-- void SellShares() 
 5. View a graph for the portfolio value-- void ViewGraphic() //Plotting with MATLAB
 6. View transaction history-- void ViewHistory() 
+
 While Bank Account can realize under functions: 
 1. View account balance-- void ViewAccountbalance() 
 2. Deposit Money-- void DepositMoney() 
