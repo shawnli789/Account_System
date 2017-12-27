@@ -1,0 +1,11 @@
+﻿StockAccount_XiangLi.obj : error LNK2019: unresolved external symbol _mxGetPr referenced in function "public: void __thiscall StockAccount::viewGraph(void)" (?viewGraph@StockAccount@@QAEXXZ)
+StockAccount_XiangLi.obj : error LNK2019: unresolved external symbol _mxCreateDoubleMatrix_730 referenced in function "public: void __thiscall StockAccount::viewGraph(void)" (?viewGraph@StockAccount@@QAEXXZ)
+StockAccount_XiangLi.obj : error LNK2019: unresolved external symbol _engEvalString referenced in function "public: void __thiscall StockAccount::viewGraph(void)" (?viewGraph@StockAccount@@QAEXXZ)
+StockAccount_XiangLi.obj : error LNK2019: unresolved external symbol _engSetVisible referenced in function "public: void __thiscall StockAccount::viewGraph(void)" (?viewGraph@StockAccount@@QAEXXZ)
+StockAccount_XiangLi.obj : error LNK2019: unresolved external symbol _engOpen referenced in function "public: void __thiscall StockAccount::viewGraph(void)" (?viewGraph@StockAccount@@QAEXXZ)
+StockAccount_XiangLi.obj : error LNK2019: unresolved external symbol _engClose referenced in function "public: void __thiscall StockAccount::viewGraph(void)" (?viewGraph@StockAccount@@QAEXXZ)
+StockAccount_XiangLi.obj : error LNK2019: unresolved external symbol _engPutVariable referenced in function "public: void __thiscall StockAccount::viewGraph(void)" (?viewGraph@StockAccount@@QAEXXZ)
+D:\Matlab\R2017a\extern\lib\win64\microsoft\libmx.lib : warning LNK4272: library machine type 'x64' conflicts with target machine type 'x86'
+D:\Matlab\R2017a\extern\lib\win64\microsoft\libmex.lib : warning LNK4272: library machine type 'x64' conflicts with target machine type 'x86'
+D:\Matlab\R2017a\extern\lib\win64\microsoft\libeng.lib : warning LNK4272: library machine type 'x64' conflicts with target machine type 'x86'
+C:\Users\Shawn\Desktop\FinalProject_XiangLi\Debug\FinalProject_XiangLi.exe : fatal error LNK1120: 7 unresolved externals
